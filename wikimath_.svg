@@ -1,0 +1,24 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fondo blanco opcional -->
+  <rect width="32" height="32" fill="#fff"/>
+
+  <!-- Texto WIKI MATH -->
+  <text x="2" y="8" font-size="4" font-family="Arial, sans-serif" font-weight="bold" fill="#000">WIKI</text>
+  <text x="2" y="13" font-size="4" font-family="Arial, sans-serif" font-weight="bold" fill="#000">MATH</text>
+
+  <!-- Cara estilizada de Einstein -->
+  <!-- cara -->
+  <circle cx="24" cy="18" r="6" fill="none" stroke="#000" stroke-width="1"/>
+  <!-- ojos -->
+  <circle cx="21.5" cy="16" r="0.8" fill="#000"/>
+  <circle cx="26.5" cy="16" r="0.8" fill="#000"/>
+  <!-- nariz -->
+  <line x1="24" y1="17" x2="24" y2="19" stroke="#000" stroke-width="0.8"/>
+  <!-- bigote -->
+  <path d="M21 19.5 Q24 20.5 27 19.5" fill="none" stroke="#000" stroke-width="1"/>
+  <!-- boca -->
+  <path d="M22 21 Q24 22 26 21" fill="none" stroke="#000" stroke-width="0.8"/>
+  <!-- pelo despeinado -->
+  <path d="M18 14 Q20 11 22 13" fill="none" stroke="#000" stroke-width="1"/>
+  <path d="M26 13 Q28 11 30 14" fill="none" stroke="#000" stroke-width="1"/>
+</svg>
