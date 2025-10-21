@@ -3,8 +3,8 @@
   <rect width="32" height="32" fill="#fff"/>
 
   <!-- Texto WIKI MATH -->
-  <text x="8" y="8" font-size="4" font-family="Arial, sans-serif" font-weight="bold" fill="#000">WIKI</text>
-  <text x="8" y="13" font-size="4" font-family="Arial, sans-serif" font-weight="bold" fill="#000">MATH</text>
+  <text x="2" y="8" font-size="4" font-family="Arial, sans-serif" font-weight="bold" fill="#000">WIKI</text>
+  <text x="2" y="13" font-size="4" font-family="Arial, sans-serif" font-weight="bold" fill="#000">MATH</text>
 
   <!-- Cara estilizada de Einstein -->
   <!-- cara -->
